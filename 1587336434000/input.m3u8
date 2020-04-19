@@ -3,9 +3,9 @@
 #EXT-X-TARGETDURATION:8
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:8.333333,
-output0.ts
+https://cdn.jsdelivr.net/gh/651490172/pic@v1.0.3/1587336434000/output0.ts
 #EXTINF:5.966667,
-output1.ts
+https://cdn.jsdelivr.net/gh/651490172/pic@v1.0.3/1587336434000/output1.ts
 #EXTINF:2.966667,
-output2.ts
+https://cdn.jsdelivr.net/gh/651490172/pic@v1.0.3/1587336434000/output2.ts
 #EXT-X-ENDLIST
